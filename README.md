@@ -3,7 +3,7 @@
 👀 I’m interested in Technology & Innovation.  
 🌱 I’m currently learning Ruby and JavaScript.  
 💞️ I’m looking to collaborate on projects that feature advanced digital commerce solutions.  
-📫 You can reach me at https://yowfactor.com/.  
+📫 You can reach me at https://calendly.com/yowfactor/consultation.  
 
 TL;DR
 
