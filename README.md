@@ -1,15 +1,15 @@
 # About Me
-🤘 Hi, I’m @YOWfactor, but you can call me Yves.
-🔥 I'm A Technology-Savvy Marketer With Entrepreneurial Spirit.
-👀 I’m interested in Technology & Innovation.
-🌱 I’m currently learning Ruby and JavaScript.
-💞️ I’m looking to collaborate on projects that feature advanced digital commerce solutions.
-📫 You can reach me at https://calendly.com/yowfactor/consultation.
+🤘 Hi, I’m @YOWfactor, but you can call me Yves.  
+🔥 I'm A Technology-Savvy Marketer With Entrepreneurial Spirit.  
+👀 I’m interested in Technology & Innovation.  
+🌱 I’m currently learning Ruby and JavaScript.  
+💞️ I’m looking to collaborate on projects that feature advanced digital commerce solutions.  
+📫 You can reach me at https://calendly.com/yowfactor/consultation.  
 
 # Get In Touch If
-💡 You need someone turning your vision into a business model.
-💾 You need someone getting your development project on the right track.
-🚀 You need someone to get your marekting off the ground successfully.
+💡 You need someone turning your vision into a business model.  
+💾 You need someone getting your development project on the right track.  
+🚀 You need someone to get your marekting off the ground successfully.  
 
 # TL;DR
 Hello Friend,
