@@ -1,5 +1,5 @@
 # About Me
-🤘 Hi, I’m @YOWfactor, but you can call me Yves.  
+🤘 Hi, I’m YOWfactor, but you can call me Yves.  
 🔥 I'm a technology-savvy Marketing & Solution Architect with entrepreneurial spirit.  
 👀 I’m interested in all things Technology & Innovation.  
 🌱 I’m currently learning Ruby & JavaScript.  
