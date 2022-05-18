@@ -1,4 +1,5 @@
 # About Me
+
 🤘 Hi, I’m YOWfactor, but you can call me Yves.  
 🔥 I'm a technology-savvy Marketing & Solution Architect with entrepreneurial spirit.  
 👀 I’m interested in all things Technology & Innovation.  
@@ -7,16 +8,18 @@
 📫 You can reach me at https://calendly.com/yowfactor/consultation.  
 
 # Get In Touch If
+
 💡 You need someone turning your vision into a digital business model.  
 💾 You need someone getting your development project on the right track.  
 🚀 You need someone to get your marketing off the ground successfully.  
 
 # TL;DR
+
 Hello Friend,
 
-My name is Yves and I'm a self-employed Marketing & Solution Architect. I help organizations to become more successful through innovation, technology, and marketing. As an independent Project Lead I plan and execute digital projects for startups and corporations to successfully innovate their business models. I specialize in Data-Driven Marketing, Analytics and Ecommerce to drive maximum business impact.
+My name is Yves (https://yowfactor.com/) and I'm a self-employed Marketing & Solution Architect. I help organizations to become more successful through innovation, technology, and marketing. As an independent Project Lead I plan and execute digital projects for startups and corporations to successfully innovate their business models. I specialize in Data-Driven Marketing, Analytics and Ecommerce to drive maximum business impact.
 
-Combining marketing and technology expertise with successful leadership and a proven track record of client acquisition and retention. Long-standing experience in customer relationship and project management. Hands-on skills in various digital marketing disciplines.
+I combine marketing and technology expertise with successful leadership and a proven track record of client acquisition and retention. Long-standing experience in customer relationship and project management. Hands-on skills in various digital marketing disciplines.
 
 I support clients with my expertise on a Marketing as a Service basis and can act as an interim CMO to jump start your Digital Marketing. I guide foreign companies in launching their Go-To-Market strategy in Germany/DACH/Europe. I act as an independent advisor for the successful planning and implementation of your digital marketing strategy.
 
@@ -27,11 +30,11 @@ I operate on a holistic approach by relying on a growing network of selected and
 I recently finished my 6-month Coding Bootcamp at Le Wagon in Berlin by developing my own first web app. I'm strengthening my technological skills to leverage the use of software, technology and innovation. Proud member of the Factory Berlin and Le Wagon communities.
 
 I currently focus especially on the following areas:
-- Headless CMS and Commerce solutions
-- MVP Development for web/cloud based applications
-- Server Side Tracking with focus on the Google Platform
+Headless CMS and Commerce solutions
+MVP Development for web/cloud based applications
+Server Side Tracking with focus on the Google Platform
 
-At the moment I'm in charge of digital projects for https://www.europeanfilmacademy.org/ and orchestrating the marketing efforts of rising cryptocurrency https://www.nimiq.com/.
+At the moment I'm in charge of digital projects for https://www.europeanfilmacademy.org/ and orchestrating the marketing efforts of rising cryptocurrency https://www.nimiq.com/. At Nimiq I'm currently responsible for the website relaunch based on a Headless CMS and Jamstack approach. For the European Film Academy I'm leading the development of the new member app based on a cloud-native, API-first approach.
 
 If you're interested in working together, please get in touch to discuss your projects further. You can schedule a consultation at https://calendly.com/yowfactor/consultation.
 
