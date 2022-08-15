@@ -30,11 +30,12 @@ I operate on a holistic approach by relying on a growing network of selected and
 I recently finished my 6-month Coding Bootcamp at Le Wagon in Berlin by developing my own first web app. I'm strengthening my technological skills to leverage the use of software, technology and innovation. Proud member of the Factory Berlin and Le Wagon communities.
 
 I currently focus especially on the following areas:
-Headless CMS and Commerce solutions
-MVP Development for web/cloud based applications
-Server Side Tracking with focus on the Google Platform
 
-At the moment I'm in charge of digital projects for https://www.europeanfilmacademy.org/ and orchestrating the marketing efforts of rising cryptocurrency https://www.nimiq.com/. At Nimiq I'm currently responsible for the website relaunch based on a Headless CMS and Jamstack approach. For the European Film Academy I'm leading the development of the new member app based on a cloud-native, API-first approach.
+- Headless CMS and Commerce solutions
+- MVP Development for web/cloud based applications
+- Server Side Tracking with focus on the Google Platform
+
+At the moment I'm in charge of digital projects for https://www.europeanfilmacademy.org/ and orchestrating the marketing efforts of rising cryptocurrency https://www.nimiq.com/. At Nimiq I'm currently responsible for the website relaunch based on a Headless CMS and Jamstack approach. For the European Film Academy, I'm leading the development of the new member app based on a cloud-native, API-first approach.
 
 If you're interested in working together, please get in touch to discuss your projects further. You can schedule a consultation at https://calendly.com/yowfactor/consultation.
 
