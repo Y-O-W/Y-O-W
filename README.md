@@ -19,7 +19,7 @@ Driven by a holistic approach focused on business impact to successfully deliver
 
 # Get In Touch If
 
-💡 You need someone turning your idea into a digita business model. 
+💡 You need someone turning your idea into a digita business model.  
 💾 You need someone getting your development project on the right track.  
 🚀 You need someone to get your go to market strategy off the ground successfully.  
 
