@@ -6,6 +6,7 @@
 # Fiercely Independent.
 
 YOWfactor stands for excellence in digital planning and execution.
+
 Driven by a holistic approach to successfully deliver digital products.
 
 # About Me
