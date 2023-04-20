@@ -1,6 +1,9 @@
 
 ![Logo-Single-Dutch](https://user-images.githubusercontent.com/26528183/233310609-fa2d4a23-3d76-41c5-bd35-f16a74753bb5.svg)
 
+![Logo-Stacked-Dutch](https://user-images.githubusercontent.com/26528183/233315105-92878906-af33-45ae-9af6-ad5d50572d0c.svg)
+
+
 # About Me
 
 🤘 Hi, I’m YOWfactor, but you can call me Yves.  
