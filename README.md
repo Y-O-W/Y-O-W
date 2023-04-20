@@ -2,11 +2,11 @@
 
 ![Logo-Stacked-Dutch](https://user-images.githubusercontent.com/26528183/233315105-92878906-af33-45ae-9af6-ad5d50572d0c.svg)
 
-## Positively Marketing. Fiercely Independent.
+# Positively Marketing. Fiercely Independent.
 
 YOWfactor stands for excellence in digital planning and execution.
 
-Driven by a holistic approach to successfully deliver digital products.
+Driven by a holistic approach focused on business impact to successfully deliver digital products.
 
 # About Me
 
