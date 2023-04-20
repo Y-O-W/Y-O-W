@@ -1,3 +1,6 @@
+
+![Logo-Single-Dutch](https://user-images.githubusercontent.com/26528183/233310609-fa2d4a23-3d76-41c5-bd35-f16a74753bb5.svg)
+
 # About Me
 
 🤘 Hi, I’m YOWfactor, but you can call me Yves.  
@@ -9,7 +12,8 @@
 
 # Get In Touch If
 
-💡 You need someone turning your vision into a digital business model.  
+💡 You need someone turning your vision into a digita![Uploading Logo-Single-Dutch.svg…]()
+l business model.  
 💾 You need someone getting your development project on the right track.  
 🚀 You need someone to get your marketing off the ground successfully.  
 
