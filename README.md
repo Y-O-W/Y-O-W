@@ -12,7 +12,8 @@ I build with Ruby on Rails and modern JavaScript — backed by over 10 years of 
 :gem: Full Stack Developer working with Ruby on Rails, Hotwire, and PostgreSQL.
 
 🌱 Currently deepening React, TypeScript, and AI integration.
-🔥 I bridge engineering and business — I write the code and understand why it matters.
+
+⚡️ I bridge engineering and business — I write the code and understand why it matters.
 
 📄 <https://y-o-w.github.io>
 
