@@ -11,7 +11,10 @@ I build with Ruby on Rails and modern JavaScript — backed by over 10 years of 
 🛠️ Full Stack Developer working with Ruby on Rails, Hotwire, and PostgreSQL.
 🌱 Currently deepening React, TypeScript, and AI integration.
 🔥 I bridge engineering and business — I write the code and understand why it matters.
-📄 CV: <https://y-o-w.github.io> · 📫 <yves@yowfactor.com>
+
+📄 CV: <https://y-o-w.github.io>
+
+📫 <yves@yowfactor.com>
 
 # Get In Touch If
 
