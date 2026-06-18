@@ -8,7 +8,9 @@ I build with Ruby on Rails and modern JavaScript — backed by over 10 years of 
 # About Me
 
 🤘 Hi, I'm Yves (you might also know me as YOWfactor).
-🛠️ Full Stack Developer working with Ruby on Rails, Hotwire, and PostgreSQL.
+
+:gem: Full Stack Developer working with Ruby on Rails, Hotwire, and PostgreSQL.
+
 🌱 Currently deepening React, TypeScript, and AI integration.
 🔥 I bridge engineering and business — I write the code and understand why it matters.
 
