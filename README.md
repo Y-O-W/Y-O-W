@@ -13,6 +13,8 @@ I build with Ruby on Rails and modern JavaScript — backed by over 10 years of 
 
 🌱 Currently deepening React, TypeScript, and AI integration.
 
+📐 I work spec-first — planning with OpenSpec and Claude Code before writing code, so AI-assisted output stays deliberate and reviewable.
+
 ⚡️ I bridge engineering and business — I write the code and understand why it matters.
 
 📄 <https://y-o-w.github.io>
