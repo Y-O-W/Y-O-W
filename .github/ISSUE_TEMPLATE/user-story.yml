@@ -1,0 +1,131 @@
+name: User story
+description: Describe one product feature as a user story for spec- and test-driven work.
+title: "[Story] "
+labels: ["user-story"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One story describes one feature. Once `/opsx:propose` has run, the acceptance criteria live in the spec and this issue links to it. Paraphrase external text (emails, tickets) and link the source; do not paste secrets or customer data.
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      description: P1 is what launch cannot do without.
+      options:
+        - P1
+        - P2
+        - P3
+    validations:
+      required: true
+  - type: input
+    id: priority-reason
+    attributes:
+      label: Why this priority
+    validations:
+      required: true
+  - type: input
+    id: links
+    attributes:
+      label: Links
+      description: Parent epic or requirement; the spec (openspec/changes/<name>/) once proposed.
+  - type: input
+    id: persona
+    attributes:
+      label: As a
+      description: One persona, with the context that matters. Several end users mean several stories.
+    validations:
+      required: true
+  - type: input
+    id: capability
+    attributes:
+      label: I want
+      description: The capability.
+    validations:
+      required: true
+  - type: input
+    id: reason
+    attributes:
+      label: So that
+      description: The reason. Required, because it lets an agent settle ambiguity the criteria do not cover.
+    validations:
+      required: true
+  - type: input
+    id: trigger
+    attributes:
+      label: Trigger
+      description: When or in which workflow this happens.
+  - type: textarea
+    id: detail
+    attributes:
+      label: Detail
+      description: Use cases and context the summary cannot carry. Only what an agent cannot find in the code or docs.
+  - type: textarea
+    id: flow
+    attributes:
+      label: Flow
+      description: A Mermaid diagram of the user flow, so the agent can read it.
+      render: mermaid
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance criteria
+      description: |
+        One line per criterion with an ID, given / when / then, and how it is verified (automated test, manual or held-out). At least one criterion is an error path. Each becomes one human-reviewed test with the ID in its name.
+      placeholder: |
+        AC-1 Given [state], when [action], then [result]. Verified by: automated test
+        AC-2 Given [error state], when [invalid action], then [fallback]. Verified by: automated test
+    validations:
+      required: true
+  - type: textarea
+    id: independent-test
+    attributes:
+      label: Independent test
+      description: How this story alone can be shown to work and deliver value.
+    validations:
+      required: true
+  - type: textarea
+    id: out-of-scope
+    attributes:
+      label: Out of scope
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints
+      description: Product limits only (performance, privacy, permissions, compliance). Agent boundaries belong in hooks or permissions.
+  - type: textarea
+    id: open-questions
+    attributes:
+      label: Assumptions and open questions
+      description: Mark open items NEEDS CLARIFICATION. Must be empty or resolved before /opsx:propose.
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencies
+      description: APIs, services, prerequisite stories.
+  - type: textarea
+    id: resources
+    attributes:
+      label: Resources
+      description: Mockups as links the agent can fetch (a Figma frame with its node ID), testing and staging URLs, and the command that proves done (for example bin/rails test path).
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+  - type: dropdown
+    id: size
+    attributes:
+      label: Size
+      options:
+        - S
+        - M
+        - L
+    validations:
+      required: true
+  - type: textarea
+    id: risk-review
+    attributes:
+      label: Risk and expected review effort
+      description: What could go wrong and what it touches; the files and surface a reviewer must read.
